@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "keys": {
+    "MORTY-ADMIN-1337": {
+      "tier": "admin",
+      "banned": false,
+      "expires": null,
+      "hwid": null
+    },
+    "MORTY-FREE-2024": {
+      "tier": "free",
+      "banned": false,
+      "expires": "2026-12-31",
+      "hwid": null
+    }
+  }
+}
